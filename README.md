@@ -1,2 +1,2 @@
-# booklet
+# bookbot
 Boot.dev Bookbot Project
